@@ -4,7 +4,8 @@
 ### Introduction
 We rate dog is a twitter account with funny and interesting tweets of rating dogs
 <br>
-![we rate dogs](dog-rates-social.jpg)
+![we rate dogs](images/dog-rates-social.jpg)
+
 I will be gathering data from three sources, including downloading file from Udacity, dowloading from url and web scraping from Twitter API.  
 
 The project includes the following contents:  
@@ -27,4 +28,4 @@ The project is using Jupyter notebook with Python. The packages include numpy, p
 * [image_predictions.tsv](https://github.com/Lanre-tiamiyu/Wrangle-and-analyze-data/blob/main/image-predictions.tsv): file downloaded programmatically  
 * [tweet_json.txt](https://github.com/Lanre-tiamiyu/Wrangle-and-analyze-data/blob/main/tweet_json.txt): file constructed via API
 * [twitter_archive_master.csv](https://github.com/Lanre-tiamiyu/Wrangle-and-analyze-data/blob/main/twitter_archive_master.csv): combined and cleaned data
-* [Twitter_archive_master.db](https://github.com/Lanre-tiamiyu/Wrangle-and-analyze-data/blob/main/twitter_archive_master.db): database hold the cleaned combined dataset.
+* [twitter_archive_master.db](https://github.com/Lanre-tiamiyu/Wrangle-and-analyze-data/blob/main/twitter_archive_master.db): database hold the cleaned combined dataset.
